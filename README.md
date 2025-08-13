@@ -24,7 +24,8 @@ The goal is to help stakeholders make data-driven decisions to improve sales and
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]("![Dashboard Screenshot](https://raw.githubusercontent.com/username/repo-name/main/dashboard.png)
+![Dashboard Screenshot]("![Dashboard Screenshot](![Dashboard Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshot%202025-08-13%20200446.png)
+)
 ")
 
 ---
