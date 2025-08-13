@@ -24,7 +24,8 @@ The goal is to help stakeholders make data-driven decisions to improve sales and
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]("C:\Users\PRATIK MOHITE\Desktop\power bi\github\Screenshot 2025-08-13 200446.png")
+![Dashboard Screenshot]("![Dashboard Screenshot](https://raw.githubusercontent.com/username/repo-name/main/dashboard.png)
+")
 
 ---
 
