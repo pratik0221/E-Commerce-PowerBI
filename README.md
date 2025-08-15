@@ -24,12 +24,12 @@ The goal is to help stakeholders make data-driven decisions to improve sales and
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](https://github.com/your-username/your-repo/blob/main/image/Screenshot%202025-08-13%20200446.png?raw=true)
-
+![Dashboard Screenshot](https://github.com/pratik0221/E-Commerce-PowerBI/blob/main/image/Screenshot%202025-08-13%20200446.png?raw=true)
 
 ---
 
 ## 🔍 Key Insights
-- Top-selling category: *Electronics*.
-- Highest revenue comes from *North America* region.
-- Seasonal peaks in November and December.
+- **Top-selling category:** Electronics  
+- **Highest revenue region:** North America  
+- **Seasonal peaks:** November and December
+
