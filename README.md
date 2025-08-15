@@ -23,11 +23,6 @@ The goal is to help stakeholders make data-driven decisions to improve sales and
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot]("C:\Users\PRATIK MOHITE\Desktop\power bi\github\image\Screenshot 2025-08-13 200446.png")
-
----
-
 ## 🔍 Key Insights
 - **Top-selling category:** Electronics  
 - **Highest revenue region:** North America  
